@@ -1,0 +1,10 @@
+Names: MURINDANYI Sudi
+
+Registration number: 16/X/2338/PS
+
+Student of: BSc computer engineering 
+
+  
+The program I did   is for getting day you have born on. But in order to get the exact day, you have to change the date inside the program at the bottom. I mean you have to put the date you have born on in the program before you run it. 
+
+	Thank you.
